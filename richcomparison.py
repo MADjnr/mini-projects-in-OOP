@@ -5,11 +5,12 @@ print(8!= 9)
 
 ## Comparing instances of the Circle Class
 
-class Fighgt:
+class :
 
     def __init__(self, user_name, phone_num, account_num):
         self.user_name = user_name
         self.phone_num = phone_num
         self.accoun_num = account_num
 
-    def __lt__(self, ):
+    def __lt__(self, ): ##less than
+        return self.
