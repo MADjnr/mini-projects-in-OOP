@@ -65,5 +65,6 @@ class Circle:
         return 2 * math.pi * self._radius
 
 
-help(Circle)
-print(Circle.__doc__)
+chibuike_circle = Circle(12, "green")
+
+print(chibuike_circle.diameter)
